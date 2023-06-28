@@ -1,5 +1,5 @@
-# FRC-BatePapoVirtual
-Projeto de pesquisa da disciplina de Fundamentos de Redes de Computadores (FRC): Criação de um bate papo virtuall utilizando a system call select().
+# FRC - Salas de Bate Papo Virtuais
+Projeto de pesquisa da disciplina de Fundamentos de Redes de Computadores (FRC): Criação de salas de bate papo virtuais utilizando a system call select().
 
 ## Membros do Projeto
 |            Aluno           |   Matrícula   |
